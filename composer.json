@@ -1,0 +1,14 @@
+{
+  "name": "amzn/login-with-amazon-module",
+  "description": "Test Composer package for research purposes",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Amzn\\Login-with-amazon-module\\": "src/"
+    }
+  }
+}
